@@ -1,4 +1,10 @@
 # VerIDSampleApp
+## 事前準備
+### CocoaPodsのインストール
+```
+$ sudo gem install cocoapods
+```
+参考:https://qiita.com/ShinokiRyosei/items/3090290cb72434852460
 ## 構築手順
 ### podライブラリインストール
 ```
